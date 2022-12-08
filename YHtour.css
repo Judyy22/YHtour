@@ -1,17 +1,17 @@
 body {
-    background-color: #D2D79F;
-    font-family: 'IBM Plex Sans KR', sans-serif;
+    background-color: #d2d79f;
+    font-family: "IBM Plex Sans KR", sans-serif;
     margin: 0;
 }
 
 .navground {
-    background-color: #42855B;
+    background-color: #42855b;
 }
 
 .tab {
     position: absolute;
-    top: 200px;
-    right: 42%;
+    top: 150px;
+    right: 45%;
     z-index: 3;
     width: 500px;
     margin-right: -610px;
@@ -23,7 +23,7 @@ body {
     margin-bottom: 20px;
     line-height: 1;
     font-size: 24px;
-    font-family: 'Noto_m';
+    font-family: "Noto_m";
     color: #222;
 }
 
@@ -59,7 +59,7 @@ body {
 }
 
 .dropdown-item:active {
-    background-color: #42855B;
+    background-color: #42855b;
 }
 
 @media screen and (max-width: 63rem) {
